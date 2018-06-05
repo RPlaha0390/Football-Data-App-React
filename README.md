@@ -4,11 +4,11 @@ This app was developed for all Football enthusiasts. Through this app you can ac
 
 The app uses a free API service that has been provided by Daniel Freitag [www.football-data.org](https://www.football-data.org). 
 
-The app has now been hosted on [amazonaws.com](http://react-football-app.s3-website.eu-west-2.amazonaws.com/). Enjoy!
+The app is now available on a domain Click [here](http://react-football-app.s3-website.eu-west-2.amazonaws.com/) to use this app. Enjoy!
 
 ## Getting Started 
 
-To get started make sure you follow the prerequisites to ensure you have the right tools to get this project up and running. To download this repository type git clone `https://github.com/RPlaha0390/Football-Data-App-React.git` into your command prompt or terminal application. 
+To get started make sure you follow the prerequisites to ensure you have the right tools to get this project up and running. To download this repository type `git clone https://github.com/RPlaha0390/Football-Data-App-React.git` into your command prompt or terminal application. 
 
 ## Prerequisites 
 
