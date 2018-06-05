@@ -1,0 +1,20 @@
+.panel-heading {
+	.panel-title {
+		a {
+			&.open {
+				&:after {
+					font-family: 'Glyphicons Halflings';
+   			 	content:"\e113";
+   			 	float: right;
+				}
+			}
+			&.collapsed {
+				&:after {
+					font-family: 'Glyphicons Halflings';
+   			 	content:"\e114";
+   			 	float: right;
+				}
+			}
+		}
+	}
+}

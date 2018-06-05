@@ -1,0 +1,99 @@
+@import 'base/variables';
+@import 'base/colors';
+@import 'base/reset';
+@import 'components/lists';
+@import 'components/tables';
+@import 'components/panels';
+@import 'components/buttons';
+@import 'layout/header';
+
+.league-list .btn {
+  white-space: normal;
+}
+
+.fixture {
+  min-height: 100px;
+  max-height: 100px;
+  list-style-type: none;
+  padding: 10px 0;
+}
+
+.fixture-result {
+  text-align: center;
+}
+
+.btn--back {
+  margin: 20px 0;
+}
+
+.well {
+  height: 100%;  
+  width: 100%;
+  float: left;
+  min-height: 100px;
+}
+
+.well p {
+  font-size: 13px;
+  font-weight: 500;
+  color: #222;
+  margin: 0;
+}
+
+.well img {
+  width: 50px;
+  max-height: 60px;
+}
+
+.well .button-container {
+  margin: 5px 0 0 0;
+}
+
+.well .button-container a:first-of-type {
+  margin-right: 10px;
+}
+
+.badge {
+  margin-bottom: 20px;
+}
+
+.team {
+  float: left;
+  padding: 0;
+}
+
+.team li {
+  font-size: 12px;
+}
+
+.team--home li {
+  margin-right: 11px;
+}
+
+.team--away li span {
+  margin-right: 10px;
+}
+
+.team li {
+  list-style-type: none;
+}
+
+
+.player-panel p {
+  color: #2196f3;
+}
+
+
+.player-panel p span {
+  color: #333;
+}
+
+.panel__fixture {
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+}
+
+.panel__fixture span {
+   color: #2196f3;
+}

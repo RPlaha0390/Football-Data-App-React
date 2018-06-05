@@ -1,0 +1,26 @@
+.navbar {
+	.navbar-header {
+		.navbar-brand {
+			height: auto;
+			padding: 20px;
+			img {
+				width: 60px;
+				
+			}
+		}
+	}
+
+	.navbar-nav {
+		li {
+			a {
+							@media screen and (min-width: $break-tablet) {
+							  padding-top: 37.5px;
+				    		padding-bottom: 39.5px;
+							}
+			}
+		}
+	}
+}
+
+
+    

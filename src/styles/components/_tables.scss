@@ -1,0 +1,47 @@
+table {
+	background: #f8f8f8;
+
+	thead {
+		th {
+			.long {
+				display: none;
+				@media screen and (min-width: $break-tablet) {
+				  display: block;
+				}
+			}
+			.short {
+				font-size: 12px;
+				@media screen and (min-width: $break-tablet) {
+				  display: none;
+				}
+			}
+		}
+	}
+	tbody {
+		tr {
+			td {
+				padding: .7rem 1rem;
+				font-size: 1rem;
+				border-top: none !important;
+				
+
+				
+				&.team {
+					display: inline-block;
+			    vertical-align: middle;
+			    float: left;
+			    width: 100%;
+			    .team__badge {
+			    	width: 25px;
+			    	height: 25px;
+			    	float: left;
+			    	margin-right: 1rem;
+			    }
+			    .team__name {
+						width: 73%;
+			    }
+				}
+			}	
+		}
+	}
+}
