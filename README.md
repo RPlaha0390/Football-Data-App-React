@@ -4,7 +4,7 @@ This app was developed for all Football enthusiasts. Through this app you can ac
 
 The app uses a free API service that has been provided by Daniel Freitag [www.football-data.org](https://www.football-data.org). 
 
-The app is now available on a domain Click [here](http://react-football-app.s3-website.eu-west-2.amazonaws.com/) to use this app. Enjoy!
+The app is now available on a domain. Click [here](http://react-football-app.s3-website.eu-west-2.amazonaws.com/) to use this app. Enjoy!
 
 ## Getting Started 
 
